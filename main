@@ -1,0 +1,12 @@
+Ramencon-Pokemon-QR/
+├── assets/
+│   ├── images/
+│   │   ├── pokemon/
+│   │   └── qr_codes/
+│   └── styles/
+│       └── main.css
+├── scripts/
+│   └── main.js
+├── index.html
+├── .gitignore
+└── README.md
